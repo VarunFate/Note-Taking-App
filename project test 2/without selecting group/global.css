@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-5xl-1: 24.1px;
+  --font-size-xl-7: 20.7px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #292929;
+  --color-black: #000;
+}

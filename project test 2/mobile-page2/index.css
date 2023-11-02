@@ -1,0 +1,153 @@
+.child,
+.inner,
+.item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+}
+.child {
+  border-radius: 0 0 0 15px;
+  background-color: #f7ecdc;
+  height: 800px;
+}
+.inner,
+.item {
+  background-color: var(--color-gainsboro);
+  height: 66px;
+}
+.inner {
+  top: 670px;
+  height: 130px;
+}
+.cuvette-notes {
+  position: absolute;
+  top: 22.93px;
+  left: 106.18px;
+  font-size: 16.72px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.cu,
+.ellipse-icon {
+  position: absolute;
+  top: 9px;
+  left: 40px;
+  width: 48px;
+  height: 48px;
+}
+.cu {
+  top: 25.2px;
+  left: 52.6px;
+  font-size: 16.8px;
+  letter-spacing: 0.02em;
+  line-height: 97.69%;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 22.8px;
+  height: 13.8px;
+}
+.vector-icon {
+  position: absolute;
+  height: 1.39%;
+  width: 4.33%;
+  top: 3.38%;
+  right: 91.78%;
+  bottom: 95.23%;
+  left: 3.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-div {
+  position: absolute;
+  top: 684px;
+  left: 14px;
+  border-radius: 6px;
+  background-color: var(--color-white);
+  width: 331px;
+  height: 102px;
+}
+.enter-your-text {
+  position: absolute;
+  top: 695px;
+  left: 24px;
+  font-size: 17.71px;
+  letter-spacing: 0.02em;
+  color: #9a9a9a;
+  display: inline-block;
+  width: 232px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 2.21%;
+  width: 5.83%;
+  top: 94.97%;
+  right: 6.94%;
+  bottom: 2.82%;
+  left: 87.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.am {
+  position: absolute;
+  top: 102px;
+  left: 14px;
+  letter-spacing: 0.02em;
+  line-height: 97.69%;
+  font-weight: 500;
+  display: inline-block;
+  width: 61.97px;
+  height: 12.39px;
+}
+.march-2023 {
+  top: 121.69px;
+}
+.am1,
+.march-2023,
+.march-20231 {
+  position: absolute;
+  left: 14px;
+  letter-spacing: 0.02em;
+  line-height: 97.69%;
+  font-weight: 500;
+}
+.am1 {
+  top: 337px;
+  display: inline-block;
+  width: 61.97px;
+  height: 12.39px;
+}
+.march-20231 {
+  top: 356.69px;
+}
+.another-productive-way,
+.its-not-only {
+  position: absolute;
+  top: 94px;
+  left: 117px;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.04em;
+  line-height: 160.19%;
+  color: var(--color-black);
+  display: inline-block;
+  width: 227px;
+  height: 195px;
+}
+.its-not-only {
+  top: 327px;
+}
+.div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 13.59px;
+  color: var(--color-darkslategray);
+  font-family: var(--font-roboto);
+}

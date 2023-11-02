@@ -1,0 +1,253 @@
+.pocket-notes {
+  position: absolute;
+  top: 30px;
+  left: 24px;
+  font-size: 31.52px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 37.32px;
+  background-color: var(--color-black);
+  width: 326px;
+  height: 42px;
+}
+.create-notes-group,
+.div1 {
+  position: absolute;
+  letter-spacing: 0.02em;
+  line-height: 97.69%;
+  font-weight: 500;
+}
+.div1 {
+  top: 4px;
+  left: 53px;
+  display: inline-block;
+  width: 21.65px;
+  height: 33.1px;
+}
+.create-notes-group {
+  top: 9.76px;
+  left: 90.07px;
+  font-size: 20.15px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 90px;
+  left: 17px;
+  width: 326px;
+  height: 42px;
+  font-size: 30.39px;
+  color: var(--color-white);
+}
+.python-notes {
+  position: absolute;
+  top: 712.38px;
+  left: 114.07px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.child {
+  position: absolute;
+  top: 692.22px;
+  left: 35px;
+  border-radius: 50%;
+  background-color: #ff66f0;
+  width: 62.01px;
+  height: 62.01px;
+}
+.my-personal-grp {
+  top: 20.15px;
+  left: 79.84px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.group-item,
+.mg,
+.my-personal-grp {
+  position: absolute;
+}
+.group-item {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #b38bfa;
+  width: 62.01px;
+  height: 62.01px;
+}
+.mg {
+  top: 21.71px;
+  left: 13.95px;
+  font-size: 21.71px;
+  letter-spacing: 0.02em;
+  line-height: 97.69%;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 34.88px;
+  height: 17.83px;
+}
+.my-personal-grp-parent {
+  position: absolute;
+  top: 250.37px;
+  left: 35px;
+  width: 219.84px;
+  height: 62.01px;
+}
+.cuvette-notes {
+  position: absolute;
+  top: 19.38px;
+  left: 79.84px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #0047ff;
+  width: 62.01px;
+  height: 62.01px;
+}
+.cu {
+  position: absolute;
+  top: 20.93px;
+  left: 16.28px;
+  font-size: 21.71px;
+  letter-spacing: 0.02em;
+  line-height: 97.69%;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 29.46px;
+  height: 17.83px;
+}
+.cuvette-notes-parent {
+  position: absolute;
+  top: 162px;
+  left: 35px;
+  width: 202.84px;
+  height: 62.01px;
+}
+.javascript-grp {
+  position: absolute;
+  top: 20.15px;
+  left: 79.07px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.ellipse-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #ffc0c0;
+  width: 62.01px;
+  height: 62.01px;
+}
+.js {
+  position: absolute;
+  top: 21.71px;
+  left: 17.83px;
+  font-size: 21.71px;
+  letter-spacing: 0.02em;
+  line-height: 97.69%;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 26.36px;
+  height: 17.83px;
+}
+.group-child1,
+.javascript-grp-parent {
+  position: absolute;
+  top: 338.74px;
+  left: 35px;
+  width: 203.07px;
+  height: 62.01px;
+}
+.group-child1 {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #43e6fc;
+  width: 62.01px;
+}
+.ht {
+  position: absolute;
+  top: 21.71px;
+  left: 16.28px;
+  font-size: 21.71px;
+  letter-spacing: 0.02em;
+  line-height: 97.69%;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 29.46px;
+  height: 17.83px;
+}
+.group-child2,
+.html-grp-parent {
+  position: absolute;
+  top: 427.11px;
+  left: 35px;
+  width: 165.84px;
+  height: 62.01px;
+}
+.group-child2 {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #f19576;
+  width: 62.01px;
+}
+.css-notes-parent,
+.group-child3 {
+  position: absolute;
+  top: 515.48px;
+  left: 35px;
+  width: 171.84px;
+  height: 62.01px;
+}
+.group-child3 {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #6691ff;
+  width: 62.01px;
+}
+.py,
+.sql-notes-parent {
+  position: absolute;
+  top: 603.85px;
+  left: 35px;
+  width: 171.84px;
+  height: 62.01px;
+}
+.py {
+  top: 713.93px;
+  left: 51.28px;
+  font-size: 21.71px;
+  letter-spacing: 0.02em;
+  line-height: 97.69%;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 29.46px;
+  height: 17.83px;
+}
+.div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg-6);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
